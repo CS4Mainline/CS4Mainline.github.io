@@ -78,7 +78,7 @@
 
 	}
 
-		body.is-loading *, body.is-loading *:before, body.is-loading *:after, body.is-switching *, body.is-switching *:before, body.is-switching *:after {
+	/* 	body.is-loading *, body.is-loading *:before, body.is-loading *:after, body.is-switching *, body.is-switching *:before, body.is-switching *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
 			-ms-animation: none !important;
@@ -91,7 +91,7 @@
 			-webkit-transition-delay: none !important;
 			-ms-transition-delay: none !important;
 			transition-delay: none !important;
-		}
+		} */
 
 /* Type */
 
@@ -141,9 +141,9 @@
 		color: inherit;
 	}*/ 
 
-		a:hover {
+		/*a:hover {
 			border-bottom-color: transparent;
-		}
+		}*/
 
 	strong, b {
 		color: #ffffff;
